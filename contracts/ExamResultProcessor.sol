@@ -29,8 +29,4 @@ contract ExamResultProcessor {
         totalScore[studentId] += score;
     }
 
-    function test() public view returns (ResultData memory) {
-        return ResultData(1, "Alex", 10);
-    }
-
 }
