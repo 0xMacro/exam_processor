@@ -2,6 +2,7 @@ const { expect } = require("chai")
 
 describe("ImprovedProcessor contract", function () {
 
+  const numTestRepetitions = 10;
   const subjects = ["English", "Physics", "Chemistry", "French", "History"]
   const resultData = generateResultData()
   
@@ -12,9 +13,9 @@ describe("ImprovedProcessor contract", function () {
   })
 
   it("should process exam data", async function () {
-    await improvedProcessor.process(resultData)
-    await improvedProcessor.process(resultData)
-    await improvedProcessor.process(resultData)
+    for (let i = 0; i < numTestRepetitions; i++) {
+      await improvedProcessor.process(resultData)
+    }
   })
 
   function generateResultData() {
