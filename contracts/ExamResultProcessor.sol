@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.2;
 
-contract ExaminationResultProcessor {
+contract ExamResultProcessor {
 
     // smaller ints, enum for subject?
     struct ResultData {
