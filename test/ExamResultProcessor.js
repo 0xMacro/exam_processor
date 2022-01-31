@@ -1,10 +1,9 @@
 const { expect } = require("chai")
+const examResults = require("../test/examResults.json")
 
 describe("ExamResultProcessor contract", function () {
 
   const numTestRepetitions = 10;
-  const subjects = ["English", "Physics", "Chemistry", "French", "History"]
-  const resultData = generateResultData()
   
   beforeEach(async function () {
     examResultProcessorFactory = await ethers.getContractFactory("ExamResultProcessor")
@@ -14,19 +13,11 @@ describe("ExamResultProcessor contract", function () {
 
   it("should process exam data", async function () {
     for (let i = 0; i < numTestRepetitions; i++) {
-      await examResultProcessor.process(resultData)
+      await examResultProcessor.process(examResults)
     }
+    expect(await examResultProcessor.totalScore(1)).to.equal(2540);
+    expect(await examResultProcessor.totalScore(17)).to.equal(1560);
+    expect(await examResultProcessor.subjectsPassed(1, "Physics")).to.equal(true);
+    expect(await examResultProcessor.subjectsPassed(30, "Chemistry")).to.equal(false);
   })
-
-  function generateResultData() {
-    let _resultData = []
-    for (let subjectId = 0; subjectId < 5; subjectId++) {
-      for (let studentId = 1; studentId < 31; studentId++) {
-        _resultData.push({
-          studentId, subject: subjects[subjectId], score: Math.floor(Math.random() * 101) 
-        });
-      }
-    }
-    return _resultData
-  }
 })

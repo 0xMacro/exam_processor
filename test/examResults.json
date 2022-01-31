@@ -1,0 +1,752 @@
+[
+  {
+    "studentId": 1,
+    "subject": "English",
+    "score": 54
+  },
+  {
+    "studentId": 2,
+    "subject": "English",
+    "score": 47
+  },
+  {
+    "studentId": 3,
+    "subject": "English",
+    "score": 78
+  },
+  {
+    "studentId": 4,
+    "subject": "English",
+    "score": 10
+  },
+  {
+    "studentId": 5,
+    "subject": "English",
+    "score": 20
+  },
+  {
+    "studentId": 6,
+    "subject": "English",
+    "score": 10
+  },
+  {
+    "studentId": 7,
+    "subject": "English",
+    "score": 3
+  },
+  {
+    "studentId": 8,
+    "subject": "English",
+    "score": 35
+  },
+  {
+    "studentId": 9,
+    "subject": "English",
+    "score": 5
+  },
+  {
+    "studentId": 10,
+    "subject": "English",
+    "score": 96
+  },
+  {
+    "studentId": 11,
+    "subject": "English",
+    "score": 79
+  },
+  {
+    "studentId": 12,
+    "subject": "English",
+    "score": 9
+  },
+  {
+    "studentId": 13,
+    "subject": "English",
+    "score": 73
+  },
+  {
+    "studentId": 14,
+    "subject": "English",
+    "score": 86
+  },
+  {
+    "studentId": 15,
+    "subject": "English",
+    "score": 91
+  },
+  {
+    "studentId": 16,
+    "subject": "English",
+    "score": 67
+  },
+  {
+    "studentId": 17,
+    "subject": "English",
+    "score": 13
+  },
+  {
+    "studentId": 18,
+    "subject": "English",
+    "score": 23
+  },
+  {
+    "studentId": 19,
+    "subject": "English",
+    "score": 42
+  },
+  {
+    "studentId": 20,
+    "subject": "English",
+    "score": 68
+  },
+  {
+    "studentId": 21,
+    "subject": "English",
+    "score": 75
+  },
+  {
+    "studentId": 22,
+    "subject": "English",
+    "score": 92
+  },
+  {
+    "studentId": 23,
+    "subject": "English",
+    "score": 100
+  },
+  {
+    "studentId": 24,
+    "subject": "English",
+    "score": 81
+  },
+  {
+    "studentId": 25,
+    "subject": "English",
+    "score": 97
+  },
+  {
+    "studentId": 26,
+    "subject": "English",
+    "score": 15
+  },
+  {
+    "studentId": 27,
+    "subject": "English",
+    "score": 97
+  },
+  {
+    "studentId": 28,
+    "subject": "English",
+    "score": 80
+  },
+  {
+    "studentId": 29,
+    "subject": "English",
+    "score": 69
+  },
+  {
+    "studentId": 30,
+    "subject": "English",
+    "score": 67
+  },
+  {
+    "studentId": 1,
+    "subject": "Physics",
+    "score": 72
+  },
+  {
+    "studentId": 2,
+    "subject": "Physics",
+    "score": 7
+  },
+  {
+    "studentId": 3,
+    "subject": "Physics",
+    "score": 85
+  },
+  {
+    "studentId": 4,
+    "subject": "Physics",
+    "score": 48
+  },
+  {
+    "studentId": 5,
+    "subject": "Physics",
+    "score": 70
+  },
+  {
+    "studentId": 6,
+    "subject": "Physics",
+    "score": 42
+  },
+  {
+    "studentId": 7,
+    "subject": "Physics",
+    "score": 65
+  },
+  {
+    "studentId": 8,
+    "subject": "Physics",
+    "score": 55
+  },
+  {
+    "studentId": 9,
+    "subject": "Physics",
+    "score": 83
+  },
+  {
+    "studentId": 10,
+    "subject": "Physics",
+    "score": 92
+  },
+  {
+    "studentId": 11,
+    "subject": "Physics",
+    "score": 50
+  },
+  {
+    "studentId": 12,
+    "subject": "Physics",
+    "score": 27
+  },
+  {
+    "studentId": 13,
+    "subject": "Physics",
+    "score": 76
+  },
+  {
+    "studentId": 14,
+    "subject": "Physics",
+    "score": 9
+  },
+  {
+    "studentId": 15,
+    "subject": "Physics",
+    "score": 92
+  },
+  {
+    "studentId": 16,
+    "subject": "Physics",
+    "score": 88
+  },
+  {
+    "studentId": 17,
+    "subject": "Physics",
+    "score": 29
+  },
+  {
+    "studentId": 18,
+    "subject": "Physics",
+    "score": 15
+  },
+  {
+    "studentId": 19,
+    "subject": "Physics",
+    "score": 88
+  },
+  {
+    "studentId": 20,
+    "subject": "Physics",
+    "score": 24
+  },
+  {
+    "studentId": 21,
+    "subject": "Physics",
+    "score": 56
+  },
+  {
+    "studentId": 22,
+    "subject": "Physics",
+    "score": 87
+  },
+  {
+    "studentId": 23,
+    "subject": "Physics",
+    "score": 79
+  },
+  {
+    "studentId": 24,
+    "subject": "Physics",
+    "score": 30
+  },
+  {
+    "studentId": 25,
+    "subject": "Physics",
+    "score": 96
+  },
+  {
+    "studentId": 26,
+    "subject": "Physics",
+    "score": 25
+  },
+  {
+    "studentId": 27,
+    "subject": "Physics",
+    "score": 58
+  },
+  {
+    "studentId": 28,
+    "subject": "Physics",
+    "score": 58
+  },
+  {
+    "studentId": 29,
+    "subject": "Physics",
+    "score": 43
+  },
+  {
+    "studentId": 30,
+    "subject": "Physics",
+    "score": 87
+  },
+  {
+    "studentId": 1,
+    "subject": "Chemistry",
+    "score": 73
+  },
+  {
+    "studentId": 2,
+    "subject": "Chemistry",
+    "score": 39
+  },
+  {
+    "studentId": 3,
+    "subject": "Chemistry",
+    "score": 36
+  },
+  {
+    "studentId": 4,
+    "subject": "Chemistry",
+    "score": 8
+  },
+  {
+    "studentId": 5,
+    "subject": "Chemistry",
+    "score": 16
+  },
+  {
+    "studentId": 6,
+    "subject": "Chemistry",
+    "score": 54
+  },
+  {
+    "studentId": 7,
+    "subject": "Chemistry",
+    "score": 73
+  },
+  {
+    "studentId": 8,
+    "subject": "Chemistry",
+    "score": 34
+  },
+  {
+    "studentId": 9,
+    "subject": "Chemistry",
+    "score": 85
+  },
+  {
+    "studentId": 10,
+    "subject": "Chemistry",
+    "score": 76
+  },
+  {
+    "studentId": 11,
+    "subject": "Chemistry",
+    "score": 90
+  },
+  {
+    "studentId": 12,
+    "subject": "Chemistry",
+    "score": 5
+  },
+  {
+    "studentId": 13,
+    "subject": "Chemistry",
+    "score": 78
+  },
+  {
+    "studentId": 14,
+    "subject": "Chemistry",
+    "score": 46
+  },
+  {
+    "studentId": 15,
+    "subject": "Chemistry",
+    "score": 21
+  },
+  {
+    "studentId": 16,
+    "subject": "Chemistry",
+    "score": 59
+  },
+  {
+    "studentId": 17,
+    "subject": "Chemistry",
+    "score": 21
+  },
+  {
+    "studentId": 18,
+    "subject": "Chemistry",
+    "score": 86
+  },
+  {
+    "studentId": 19,
+    "subject": "Chemistry",
+    "score": 98
+  },
+  {
+    "studentId": 20,
+    "subject": "Chemistry",
+    "score": 50
+  },
+  {
+    "studentId": 21,
+    "subject": "Chemistry",
+    "score": 92
+  },
+  {
+    "studentId": 22,
+    "subject": "Chemistry",
+    "score": 47
+  },
+  {
+    "studentId": 23,
+    "subject": "Chemistry",
+    "score": 16
+  },
+  {
+    "studentId": 24,
+    "subject": "Chemistry",
+    "score": 43
+  },
+  {
+    "studentId": 25,
+    "subject": "Chemistry",
+    "score": 76
+  },
+  {
+    "studentId": 26,
+    "subject": "Chemistry",
+    "score": 50
+  },
+  {
+    "studentId": 27,
+    "subject": "Chemistry",
+    "score": 65
+  },
+  {
+    "studentId": 28,
+    "subject": "Chemistry",
+    "score": 34
+  },
+  {
+    "studentId": 29,
+    "subject": "Chemistry",
+    "score": 7
+  },
+  {
+    "studentId": 30,
+    "subject": "Chemistry",
+    "score": 2
+  },
+  {
+    "studentId": 1,
+    "subject": "French",
+    "score": 54
+  },
+  {
+    "studentId": 2,
+    "subject": "French",
+    "score": 88
+  },
+  {
+    "studentId": 3,
+    "subject": "French",
+    "score": 57
+  },
+  {
+    "studentId": 4,
+    "subject": "French",
+    "score": 23
+  },
+  {
+    "studentId": 5,
+    "subject": "French",
+    "score": 83
+  },
+  {
+    "studentId": 6,
+    "subject": "French",
+    "score": 59
+  },
+  {
+    "studentId": 7,
+    "subject": "French",
+    "score": 16
+  },
+  {
+    "studentId": 8,
+    "subject": "French",
+    "score": 46
+  },
+  {
+    "studentId": 9,
+    "subject": "French",
+    "score": 81
+  },
+  {
+    "studentId": 10,
+    "subject": "French",
+    "score": 23
+  },
+  {
+    "studentId": 11,
+    "subject": "French",
+    "score": 19
+  },
+  {
+    "studentId": 12,
+    "subject": "French",
+    "score": 50
+  },
+  {
+    "studentId": 13,
+    "subject": "French",
+    "score": 17
+  },
+  {
+    "studentId": 14,
+    "subject": "French",
+    "score": 40
+  },
+  {
+    "studentId": 15,
+    "subject": "French",
+    "score": 56
+  },
+  {
+    "studentId": 16,
+    "subject": "French",
+    "score": 17
+  },
+  {
+    "studentId": 17,
+    "subject": "French",
+    "score": 5
+  },
+  {
+    "studentId": 18,
+    "subject": "French",
+    "score": 88
+  },
+  {
+    "studentId": 19,
+    "subject": "French",
+    "score": 82
+  },
+  {
+    "studentId": 20,
+    "subject": "French",
+    "score": 84
+  },
+  {
+    "studentId": 21,
+    "subject": "French",
+    "score": 19
+  },
+  {
+    "studentId": 22,
+    "subject": "French",
+    "score": 79
+  },
+  {
+    "studentId": 23,
+    "subject": "French",
+    "score": 41
+  },
+  {
+    "studentId": 24,
+    "subject": "French",
+    "score": 89
+  },
+  {
+    "studentId": 25,
+    "subject": "French",
+    "score": 83
+  },
+  {
+    "studentId": 26,
+    "subject": "French",
+    "score": 79
+  },
+  {
+    "studentId": 27,
+    "subject": "French",
+    "score": 4
+  },
+  {
+    "studentId": 28,
+    "subject": "French",
+    "score": 65
+  },
+  {
+    "studentId": 29,
+    "subject": "French",
+    "score": 83
+  },
+  {
+    "studentId": 30,
+    "subject": "French",
+    "score": 62
+  },
+  {
+    "studentId": 1,
+    "subject": "History",
+    "score": 1
+  },
+  {
+    "studentId": 2,
+    "subject": "History",
+    "score": 100
+  },
+  {
+    "studentId": 3,
+    "subject": "History",
+    "score": 49
+  },
+  {
+    "studentId": 4,
+    "subject": "History",
+    "score": 94
+  },
+  {
+    "studentId": 5,
+    "subject": "History",
+    "score": 65
+  },
+  {
+    "studentId": 6,
+    "subject": "History",
+    "score": 62
+  },
+  {
+    "studentId": 7,
+    "subject": "History",
+    "score": 55
+  },
+  {
+    "studentId": 8,
+    "subject": "History",
+    "score": 65
+  },
+  {
+    "studentId": 9,
+    "subject": "History",
+    "score": 38
+  },
+  {
+    "studentId": 10,
+    "subject": "History",
+    "score": 11
+  },
+  {
+    "studentId": 11,
+    "subject": "History",
+    "score": 92
+  },
+  {
+    "studentId": 12,
+    "subject": "History",
+    "score": 79
+  },
+  {
+    "studentId": 13,
+    "subject": "History",
+    "score": 24
+  },
+  {
+    "studentId": 14,
+    "subject": "History",
+    "score": 95
+  },
+  {
+    "studentId": 15,
+    "subject": "History",
+    "score": 36
+  },
+  {
+    "studentId": 16,
+    "subject": "History",
+    "score": 100
+  },
+  {
+    "studentId": 17,
+    "subject": "History",
+    "score": 88
+  },
+  {
+    "studentId": 18,
+    "subject": "History",
+    "score": 93
+  },
+  {
+    "studentId": 19,
+    "subject": "History",
+    "score": 1
+  },
+  {
+    "studentId": 20,
+    "subject": "History",
+    "score": 80
+  },
+  {
+    "studentId": 21,
+    "subject": "History",
+    "score": 37
+  },
+  {
+    "studentId": 22,
+    "subject": "History",
+    "score": 37
+  },
+  {
+    "studentId": 23,
+    "subject": "History",
+    "score": 8
+  },
+  {
+    "studentId": 24,
+    "subject": "History",
+    "score": 48
+  },
+  {
+    "studentId": 25,
+    "subject": "History",
+    "score": 2
+  },
+  {
+    "studentId": 26,
+    "subject": "History",
+    "score": 2
+  },
+  {
+    "studentId": 27,
+    "subject": "History",
+    "score": 78
+  },
+  {
+    "studentId": 28,
+    "subject": "History",
+    "score": 21
+  },
+  {
+    "studentId": 29,
+    "subject": "History",
+    "score": 59
+  },
+  {
+    "studentId": 30,
+    "subject": "History",
+    "score": 72
+  }
+]
