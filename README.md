@@ -2,7 +2,7 @@
 
 To use:
 
-1. `git clone https://github.com/ShipyardDAO/exam_processor.git`
+1. `git clone https://github.com/0xMacro/exam_processor.git`
 2. `cd exam_processor`
 3. `npm install`
 4. `npx hardhat test`
