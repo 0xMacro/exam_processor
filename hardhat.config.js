@@ -4,5 +4,14 @@ require("hardhat-gas-reporter")
  * @type import('hardhat/config').HardhatUserConfig
  */
 module.exports = {
-  solidity: "0.8.4",
+  solidity: {
+    version: "0.8.16",
+    settings: {
+      viaIR: false,
+      optimizer: {
+        enabled: true,
+        runs: 1000,
+      },
+    },
+  }
 };
