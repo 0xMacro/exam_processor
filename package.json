@@ -1,5 +1,14 @@
 {
-  "name": "hardhat-project",
+  "name": "exam_processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -x npx hardhat test -w contracts -w test -e js,ts,sol"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
     "hardhat": "^2.12.6"
