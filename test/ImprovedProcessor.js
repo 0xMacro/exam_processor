@@ -15,9 +15,9 @@ describe("ImprovedProcessor contract", function () {
     for (let i = 0; i < numTestRepetitions; i++) {
       await improvedProcessor.process(examResults)
     }
-    expect(await examResultProcessor.totalScore(1)).to.equal(2540);
-    expect(await examResultProcessor.totalScore(17)).to.equal(1560);
-    expect(await examResultProcessor.subjectsPassed(1, "Physics")).to.equal(true);
-    expect(await examResultProcessor.subjectsPassed(30, "Chemistry")).to.equal(false);
+    expect(await improvedProcessor.totalScore(1)).to.equal(2540);
+    expect(await improvedProcessor.totalScore(17)).to.equal(1560);
+    expect(await improvedProcessor.subjectsPassed(1, "Physics")).to.equal(true);
+    expect(await improvedProcessor.subjectsPassed(30, "Chemistry")).to.equal(false);
   })
 })
